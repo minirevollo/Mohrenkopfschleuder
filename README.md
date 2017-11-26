@@ -14,7 +14,7 @@ Gezeichnet mit Google SketchUp. Exportiert als 2D Modell im Format DXF.
 
 <img src="IMG/Mohrnkopfschleuder_v_4_bild_3.jpg" width = "30%" /> <img src="IMG/Mohrnkopfschleuder_v_4_bild_2.jpg" width = "30%" /> <img src="IMG/Mohrnkopfschleuder_v_4_bild_1.jpg" width = "30%" />
 Weiterbearbeitet in Inkscape. Hier wurden noch die Gravuren auf einem extra Layer und in einer anderen Farbe angelegt. Schriften mussten dann noch in Pfade umgewandelt werden.
-<img src="2D/Mohrnkopfschleuder_v_4.svg" width = "30%" />
+<img src="2D/Mohrnkopfschleuder_v_4.svg" width = "30%" /> <img src="2D/Mohrnkopfschleuder_v_4.dxf" width = "30%" />
 
 
 
