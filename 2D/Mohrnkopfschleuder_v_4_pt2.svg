@@ -7,11 +7,11 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1181.7095"
-   height="756.90552"
+   width="756.90546"
+   height="1009.8583"
    version="1.1"
    id="svg1957"
-   sodipodi:docname="Mohrnkopfschleuder_v_4.svg"
+   sodipodi:docname="Mohrnkopfschleuder_v_4_pt2.svg"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <metadata
      id="metadata1961">
@@ -40,13 +40,13 @@
      showgrid="false"
      inkscape:measure-start="-306.961,402.775"
      inkscape:measure-end="-314.058,-392.129"
-     inkscape:zoom="0.56359031"
-     inkscape:cx="599.50614"
-     inkscape:cy="371.41308"
+     inkscape:zoom="0.39851853"
+     inkscape:cx="301.17852"
+     inkscape:cy="497.88949"
      inkscape:window-x="-4"
      inkscape:window-y="-4"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1955" />
+     inkscape:current-layer="g1953" />
   <desc
      id="desc815">C:\Users\Andreas Reheis\Documents\Laser\Mohrnkopfschleuder\Mohrnkopfschleuder_v_4.dxf - scale = 1.000000, origin = (0.000000, 0.000000), method = file</desc>
   <defs
@@ -98,10 +98,11 @@
      inkscape:groupmode="layer"
      inkscape:label="PROFILEEDGES"
      id="g1953"
-     transform="translate(590.85473,-744.06693)"
+     transform="translate(292.52712,-617.59055)"
      style="display:inline">
     <g
-       id="g4347">
+       id="g4347"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path833"
@@ -484,7 +485,8 @@
          d="m -378.81852,1349.2913 h -24.56693" />
     </g>
     <g
-       id="g4635">
+       id="g4635"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path985"
@@ -767,7 +769,8 @@
          d="m 246.10738,825.89343 -0.25757,-1.95642" />
     </g>
     <g
-       id="g4699">
+       id="g4699"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1097"
@@ -1080,7 +1083,8 @@
          d="m -107.02808,1225.4787 v -15.1181" />
     </g>
     <g
-       id="g4441">
+       id="g4441"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1221"
@@ -1163,7 +1167,8 @@
          d="m 545.0004,946.53216 h 15.11811" />
     </g>
     <g
-       id="g4423">
+       id="g4423"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1253"
@@ -1246,7 +1251,8 @@
          d="m 458.07127,946.53216 h 15.11811" />
     </g>
     <g
-       id="g4405">
+       id="g4405"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1285"
@@ -1329,7 +1335,8 @@
          d="m 371.14213,946.53216 h 15.11811" />
     </g>
     <g
-       id="g4387">
+       id="g4387"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1317"
@@ -1412,7 +1419,8 @@
          d="m 284.213,946.53216 h 15.11811" />
     </g>
     <g
-       id="g4832">
+       id="g4832"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1349"
@@ -2070,7 +2078,8 @@
          d="m 435.29962,1471.4126 1.52639,1.1712" />
     </g>
     <g
-       id="g4965">
+       id="g4965"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1611"
@@ -2728,7 +2737,8 @@
          d="m -151.77956,976.99334 3.25573,-14.76338" />
     </g>
     <g
-       id="g4369">
+       id="g4369"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1873"
@@ -2830,118 +2840,16 @@
          style="fill:none;stroke:#000000"
          d="m 28.454624,948.63786 v 15.11811" />
     </g>
-    <g
-       id="g4269">
-      <path
-         inkscape:connector-curvature="0"
-         id="path1913"
-         style="fill:none;stroke:#000000"
-         d="m -469.40985,1296.378 h 30.23622" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1915"
-         style="fill:none;stroke:#000000"
-         d="m -469.40985,1281.2598 v 15.1182" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1917"
-         style="fill:none;stroke:#000000"
-         d="m -484.52796,1281.2598 h 15.11811" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1919"
-         style="fill:none;stroke:#000000"
-         d="m -484.52796,1296.378 v -15.1182" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1921"
-         style="fill:none;stroke:#000000"
-         d="m -545.0004,1296.378 h 60.47244" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1923"
-         style="fill:none;stroke:#000000"
-         d="m -439.17363,1296.378 v 188.9763" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1925"
-         style="fill:none;stroke:#000000"
-         d="m -439.17363,1485.3543 h -30.23622" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1927"
-         style="fill:none;stroke:#000000"
-         d="m -469.40985,1485.3543 v 15.1181" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1929"
-         style="fill:none;stroke:#000000"
-         d="m -469.40985,1500.4724 h -15.11811" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1931"
-         style="fill:none;stroke:#000000"
-         d="m -484.52796,1500.4724 v -15.1181" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1933"
-         style="fill:none;stroke:#000000"
-         d="M -484.52796,1485.3543 H -545.0004" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1935"
-         style="fill:none;stroke:#000000"
-         d="m -545.0004,1281.2598 v 15.1182" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1937"
-         style="fill:none;stroke:#000000"
-         d="m -560.11851,1281.2598 h 15.11811" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1939"
-         style="fill:none;stroke:#000000"
-         d="m -560.11851,1296.378 v -15.1182" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1941"
-         style="fill:none;stroke:#000000"
-         d="m -590.35473,1296.378 h 30.23622" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1943"
-         style="fill:none;stroke:#000000"
-         d="m -545.0004,1485.3543 v 15.1181" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1945"
-         style="fill:none;stroke:#000000"
-         d="m -545.0004,1500.4724 h -15.11811" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1947"
-         style="fill:none;stroke:#000000"
-         d="m -560.11851,1500.4724 v -15.1181" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1949"
-         style="fill:none;stroke:#000000"
-         d="m -560.11851,1485.3543 h -30.23622" />
-      <path
-         inkscape:connector-curvature="0"
-         id="path1951"
-         style="fill:none;stroke:#000000"
-         d="M -590.35473,1485.3543 V 1296.378" />
-    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      inkscape:label="Gravur"
      id="g1955"
-     transform="translate(590.85473,-744.06693)"
+     transform="translate(292.52712,-617.59055)"
      style="display:inline">
     <g
-       id="g5062">
+       id="g5062"
+       transform="rotate(90,85.925585,1122.5197)">
       <path
          inkscape:connector-curvature="0"
          id="path1997"
@@ -3224,7 +3132,8 @@
          d="m 355.93294,1292.1639 v 26.0788" />
     </g>
     <g
-       id="g5086">
+       id="g5086"
+       transform="rotate(90,85.925585,1122.5197)">
       <g
          id="text3812"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.95068169px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.90584224"
@@ -3338,7 +3247,8 @@
       </g>
     </g>
     <g
-       id="g5004">
+       id="g5004"
+       transform="rotate(90,85.925585,1122.5197)">
       <g
          id="text6398"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12px;line-height:1.25;font-family:'OCR A Extended';-inkscape-font-specification:'OCR A Extended';letter-spacing:0px;word-spacing:0px;display:inline;fill:#0000ff;fill-opacity:1;stroke:none"
