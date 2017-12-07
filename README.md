@@ -14,10 +14,21 @@ Gezeichnet mit Google SketchUp. Exportiert als 2D Modell im Format DXF.
 
 <img src="IMG/Mohrnkopfschleuder_v_4_bild_3.jpg" width = "30%" /> <img src="IMG/Mohrnkopfschleuder_v_4_bild_2.jpg" width = "30%" /> <img src="IMG/Mohrnkopfschleuder_v_4_bild_1.jpg" width = "30%" />
 Weiterbearbeitet in Inkscape. Hier wurden noch die Gravuren auf einem extra Layer und in einer anderen Farbe angelegt. Schriften mussten dann noch in Pfade umgewandelt werden.
-<img src="2D/Mohrnkopfschleuder_v_4.svg" width = "30%" />
+<img src="2D/Mohrnkopfschleuder_v_4.svg" width = "50%" />
+
 
 
 
 ## Produktion ##
 
 Aus einem 4 mm Pappelsperrholz wurde die Schleuder dann im [erfindergarden](http://www.erfindergarden.de) gelastert. Mit 4 Sechskantschrauben M4 x 20 und einem Gummizug wird dann alles fertig montiert.
+
+## Variationen ##
+
+Hier noch ein neues Design: **Dragonfire**
+ 
+<img src="2D/dragonfire.svg" width = "50%"/>
+Seitenteile, Wurfarm und Zielscheibe wurden drachenmäßig angepasst. Die Bodenplatte, H-Elemente und Querstreben bleiben gleich. Achtung! Die rote Seitenvorlage nicht mitfräsen, nur die Löcher übernehmen.
+
+Für die Zukunft könnte ich mir noch einige Designs vorstellen:
+Minekraft, Alibaba, Starwars, Ritterburg, Oktoberfest usw. .....
