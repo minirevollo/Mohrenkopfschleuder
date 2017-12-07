@@ -28,7 +28,7 @@ Aus einem 4 mm Pappelsperrholz wurde die Schleuder dann im [erfindergarden](http
 
 Hier noch ein neues Design: **Dragonfire**
  
-<img src="2D/dragonfire.svg" width = "50%" aligene = "left"/>
+<img src="2D/Dragonfire.svg" width = "50%" aligene = "left"/>
 Seitenteile, Wurfarm und Zielscheibe wurden drachenmäßig angepasst. Die Bodenplatte, H-Elemente und Querstreben bleiben gleich. Achtung! Die rote Seitenvorlage nicht mitfräsen, nur die Löcher übernehmen.
 
 Für die Zukunft könnte ich mir noch einige Designs vorstellen:
