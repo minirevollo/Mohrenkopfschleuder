@@ -29,7 +29,7 @@ Aus einem 4 mm Pappelsperrholz wurde die Schleuder dann im [erfindergarden](http
 Hier noch ein neues Design: **Dragonfire**
  
 <img src="2D/Dragonfire.svg" width = "50%" aligene = "left"/>
-Seitenteile, Wurfarm und Zielscheibe wurden drachenmäßig angepasst. Die Bodenplatte, H-Elemente und Querstreben bleiben gleich. Achtung! Die rote Seitenvorlage nicht mitfräsen, nur die Löcher übernehmen. Ich muss noch das Problem lösen die "Drachenhaut" zu gravieren. Zur Zeit ist diese als Muster in Inkscape angelegt und Visicut erkennt es logischerweise nicht als Laserbare Pfade.
+Seitenteile, Wurfarm und Zielscheibe wurden drachenmäßig angepasst. Die Bodenplatte, H-Elemente und Querstreben bleiben gleich. Achtung! Die rote Seitenvorlage nicht mitfräsen, nur die Löcher übernehmen. Ich muss noch das Problem lösen die "Drachenhaut" zu gravieren. Zur Zeit ist diese als Muster in Inkscape angelegt und Visicut erkennt es logischerweise nicht als laserbare Pfade.
 
 Für die Zukunft könnte ich mir noch einige Designs vorstellen:
 
