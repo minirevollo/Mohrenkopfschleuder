@@ -3,7 +3,10 @@ pc: Schaumkopfschleuder
 
 Ein Projekt für die MAKER FAIR ROMA 2017.
 
-Die **aktuelle Version V5.0 extra stabil**, zum 13.12.2017 veröffentlicht, hat jetzt doppelte H-Stege an den Drehachsen und ist um 2 mm breiter. Die SVG ist dreifarbig. Rot ist gravieren, schwarzen cutten, grün ist auch zum cutten. Wenn Sperrholz im Format 29 x 42 cm verwendet wird passen ohne dem grünen Bauteil zwei Schleudern auf eine Platte. Dragonfire ist noch auf der Version V4.0 aufgebaut. 
+Die **aktuelle Version V5.0 extra stabil**, zum 13.12.2017 veröffentlicht, hat jetzt doppelte H-Stege an den Drehachsen und ist um 2 mm breiter. Die SVG ist dreifarbig. Rot ist gravieren, schwarzen cutten, grün ist auch zum cutten. Wenn Sperrholz im Format 29 x 42 cm verwendet wird passen ohne dem grünen Bauteil zwei Schleudern auf eine Platte. Dragonfire ist noch auf der Version V4.0 aufgebaut.
+
+
+<img src="2D/Mohrnkopfschleuder_v_5.svg" width = "50%" /> 
 
 Ein Technikklassikerin wie sie schon die alten Griechen verwendet haben. Man schießt mit der NERF-GUN auf die Zielscheibe und die geballte Kraft des gespannten Gummibandes schleudert einen Mini-Schaumkuss (Mohrenkopf) direkt in Richtung des Schützen. Dieser sollten das Flugobjekt mit dem Mund auffangen.
 
