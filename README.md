@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Mohrenkopfschleuder 
 pc: Schaumkopfschleuder
 
@@ -83,5 +83,4 @@ Seitenteile, Wurfarm und Zielscheibe wurden drachenmäßig angepasst. Die Bodenp
 Für die Zukunft könnte ich mir noch einige Designs vorstellen:
 **Minekraft, Alibaba, Starwars, Ritterburg, Oktoberfest** usw. .....
 
->>>>>>> a64f4f44bf7b6693844f5c85075780ec0f728966
 Wer sein eigenes Design anfertigen möchte sollte die Version V5.0 extra stabil als Grundlage verwenden. Viel Spaß und schickt mir Eure Versionen.
