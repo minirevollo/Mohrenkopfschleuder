@@ -6,6 +6,8 @@ Ein Projekt für die MAKER FAIR ROMA 2017.
 
 Die **aktuelle Version V5.0 extra stabil**, zum 13.12.2017 veröffentlicht, hat jetzt doppelte H-Stege an den Drehachsen und ist um 2 mm breiter. Die SVG ist dreifarbig. Rot ist gravieren, schwarzen cutten, grün ist auch zum cutten. Wenn Sperrholz im Format 29 x 42 cm verwendet wird passen ohne dem grünen Bauteil zwei Schleudern auf eine Platte. Dragonfire ist noch auf der Version V4.0 aufgebaut.
 
+Bitte verwende die Inkscape Version 0.92, weil mit der Inkscape 0.91 die svgs und in der Version 0.92 in 90 dpi sind.
+
 
 
 <img src="2D/Mohrnkopfschleuder_v_5.svg" width = "50%" /> 
