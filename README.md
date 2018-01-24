@@ -10,8 +10,10 @@ Die **aktuelle Version V5.0 extra stabil**, zum 13.12.2017 veröffentlicht, hat 
 
 <img src="2D/Mohrnkopfschleuder_v_5.svg" width = "50%" /> 
 
-Für Plattenmaterial 29 x 42 cm sollte man die Version ... alt_Anordnung und  ... Teil  verwenden. Dann passen 2 Schleudern auf eine Platte. Das grüne "Teil" nicht lasern.
+Für Plattenmaterial 29 x 42 cm sollte man die Version ... alt_Anordnung und  ... Teil  verwenden. Dann passen 2 Schleudern auf eine Platte und bei den beiden beweglichen Teilen läuft die **Maserrichtung der Sperrholzplatte** in Längsrichtung Das grüne "Teil" nicht lasern.
+
 <img src="2D/Mohrnkopfschleuder_v_5_alt_Anordnung.svg" width = "49%" /> <img src="2D/Mohrnkopfschleuder_v_5_Teil.svg" width = "49%" />
+
 Ein Technikklassikerin wie sie schon die alten Griechen verwendet haben. Man schießt mit der NERF-GUN auf die Zielscheibe und die geballte Kraft des gespannten Gummibandes schleudert einen Mini-Schaumkuss (Mohrenkopf) direkt in Richtung des Schützen. Dieser sollten das Flugobjekt mit dem Mund auffangen.
 
 
