@@ -4,6 +4,14 @@ pc: Schaumkopfschleuder
 
 Ein Projekt für die MAKER FAIR ROMA 2017.
 
+Die Version V6 ist da. Besser durch:
+1. Sperrmuttern an allen beweglichen Teilen
+2. Verbesserte Standfestigkeit durch 3 mm extra Breite
+3. Verschraubung der senkrechten Querstrebe
+4. Schraubenschlüsseldesign mit optimierter Hebelwirkung
+
+<img src="2D/Mohrnkopfschleuder_v_6.svg" width = "50%" />
+
 Die **aktuelle Version V5.0 extra stabil**, zum 13.12.2017 veröffentlicht, hat jetzt doppelte H-Stege an den Drehachsen und ist um 2 mm breiter. Die SVG ist dreifarbig. Rot ist gravieren, schwarzen cutten, grün ist auch zum cutten. Wenn Sperrholz im Format 29 x 42 cm verwendet wird passen ohne dem grünen Bauteil zwei Schleudern auf eine Platte. Dragonfire ist noch auf der Version V4.0 aufgebaut.
 
 
