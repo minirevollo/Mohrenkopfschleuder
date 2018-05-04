@@ -4,11 +4,14 @@ pc: Schaumkopfschleuder
 
 Ein Projekt für die MAKER FAIR ROMA 2017.
 
-Die Version V6 ist da. Besser durch:
+Die **Version V6** ist da. Besser durch:
+
 1. Sperrmuttern an allen beweglichen Teilen
 2. Verbesserte Standfestigkeit durch 3 mm extra Breite
 3. Verschraubung der senkrechten Querstrebe
 4. Schraubenschlüsseldesign mit optimierter Hebelwirkung
+5. Das neue Dackel_Design steht bereits in der Version V6 zur Verfügung 
+
 
 <img src="2D/Mohrnkopfschleuder_v_6.svg" width = "50%" />
 
@@ -56,3 +59,6 @@ Seitenteile, Wurfarm und Zielscheibe wurden drachenmäßig angepasst. Die Bodenp
 Für die Zukunft könnte ich mir noch einige Designs vorstellen:
 **Minekraft, Alibaba, Starwars, Ritterburg, Oktoberfest** usw. .....
 
+Zur Makerfair Wien 2018: der **Dackel**
+
+<img src="2D/Dackel/Dackel_Schleuder_v6.svg" width = "70%" aligene = "left"/>
