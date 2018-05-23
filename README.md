@@ -2,7 +2,12 @@
 # Mohrenkopfschleuder 
 pc: Schaumkopfschleuder
 
-Ein Projekt für die MAKER FAIR ROMA 2017.
+Ursprünglich ein Projekt für die MAKER FAIR ROMA 2017.
+
+Das neue Design für die **MAKE FAIR BERLIN 2018** ist da. Der Berliner Bär. Bereits in der neuesten Version V6:
+
+
+<img src="2D/Berliner_Baer/Baer_Schleuder_v6_multifigur.svg" width = "80%" />
 
 Die **Version V6** ist da. Besser durch:
 
