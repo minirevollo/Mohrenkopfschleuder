@@ -1,6 +1,6 @@
 
-# Mohrenkopfschleuder 
-pc: Schaumkopfschleuder
+# Schaumkopfschleuder 
+
 
 Ursprünglich ein Projekt für die MAKER FAIR ROMA 2017.
 
