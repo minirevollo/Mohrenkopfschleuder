@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="600mm"
+   height="300mm"
+   viewBox="0 0 2005.986 1002.993"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="erfindergardenfab14.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.18414035"
+     inkscape:cx="209.18383"
+     inkscape:cy="491.11089"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="mm"
+     width="600in"
+     inkscape:window-width="1280"
+     inkscape:window-height="718"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1"
+     inkscape:snap-global="false"
+     objecttolerance="10000"
+     guidetolerance="10000"
+     inkscape:snap-perpendicular="true"
+     inkscape:snap-tangential="true"
+     scale-x="3.34331"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-66.07965,878.59699)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:88.79660797px;line-height:125%;font-family:Minecrafter;-inkscape-font-specification:Minecrafter;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:4.58305073px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="208.17932"
+       y="133.04782"
+       id="text1459"
+       transform="scale(0.69314504,1.4426995)"><tspan
+         sodipodi:role="line"
+         id="tspan1457"
+         x="208.17932"
+         y="210.74486"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Minecrafter;-inkscape-font-specification:Minecrafter;stroke-width:4.58305073px" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:59.36896133px;line-height:125%;font-family:stencilla;-inkscape-font-specification:stencilla;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.06420445px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="61.499428"
+       y="-832.0517"
+       id="text1463"><tspan
+         sodipodi:role="line"
+         id="tspan1461"
+         x="61.499428"
+         y="-832.0517"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Minecrafter;-inkscape-font-specification:Minecrafter;stroke-width:3.06420445px">#fab14 erfindergarden</tspan></text>
+  </g>
+</svg>
